@@ -1,4 +1,4 @@
-module github.com/devhulk/golang-gui
+module github.com/devhulk/tview
 
 go 1.20
 
